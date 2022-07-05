@@ -7,34 +7,50 @@ h1{
     font-size: 65px;
     margin: 0;
 }
-.header-text{
-    margin-bottom: 5%;
+h2{
+    font-size: 40px;
 }
+.header-text{
+    margin-bottom: 6%;
+    margin-top: 6%;
+    width: 60%;
+    
+}
+
 p{
-    font-weight: 500;
+    font-weight: 300;
+    
+    
 }
 section{
     height: 500px;
-    padding-top: 5px;
+    padding-bottom: 350px;
+}
+.hero-ara{
+    padding-bottom: 50px;
 }
 .hero-image{
     width: 40%;
     float: left;
-    padding-left: 2%;
+    padding-left: 0;
     margin-left: 5%;
     padding-top: 2%;
        
 }
 .half-width{
-    width: 45%;
+    width: 40%;
     float: left;
-    padding-left: 0%;
+    padding-left: 2%;
     margin-left: 5%;
+    padding-top: 14%;
+}
+#header{
     padding-top: 15%;
-
+    width: 45%;
 }
 .half-width img{
-    width: 100%;
+    width: 55%;
+    margin-left: 20%;  
 }
 .highlight{
     color: orangered;
@@ -46,4 +62,13 @@ section{
     padding: 20px 45px;
     text-decoration: none;
     font-weight: 500;
+}
+.about-me{
+    background-image: url(images//shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+.about-me p{
+    padding-bottom: 15%;
 }
