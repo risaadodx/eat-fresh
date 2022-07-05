@@ -1,3 +1,49 @@
 body{
-    
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+h1{
+    font-weight: 700;
+    font-size: 65px;
+    margin: 0;
+}
+.header-text{
+    margin-bottom: 5%;
+}
+p{
+    font-weight: 500;
+}
+section{
+    height: 500px;
+    padding-top: 5px;
+}
+.hero-image{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+    padding-top: 2%;
+       
+}
+.half-width{
+    width: 45%;
+    float: left;
+    padding-left: 0%;
+    margin-left: 5%;
+    padding-top: 15%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.highlight{
+    color: orangered;
+}
+.btn1{
+    color: white;
+    background-color: orangered;
+    border-radius: 100px;
+    padding: 20px 45px;
+    text-decoration: none;
+    font-weight: 500;
 }
